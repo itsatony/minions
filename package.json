@@ -1,0 +1,14 @@
+{
+	"name"          : "minions",
+	"description"   : "a weird set of little Javascript helpers we use for both nodeJS and browsers",
+	"url"           : "http://github.com/itsatony/minions",
+	"keywords"      : ["javascript", "helpers", "VisualWeb"],
+	"author"        : "Toni Wagner <i@itsatony.com>",
+	"contributors"  : [],
+	"licenses"      : ["free"],
+	"dependencies"  : [],
+	"main"          : "./lib/minions",
+	"version"       : "0.1.0",
+	"directories"   : { "lib": "./lib" },
+	"engines"       : { "node": "> 0.6" }
+}

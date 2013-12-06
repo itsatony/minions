@@ -8,7 +8,7 @@
 	"licenses"      : ["free"],
 	"dependencies"  : [],
 	"main"          : "./lib/minions",
-	"version"       : "0.2.45",
+	"version"       : "0.2.46",
 	"directories"   : { "lib": "./lib" },
 	"engines"       : { "node": "> 0.6" }
 }

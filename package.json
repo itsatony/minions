@@ -4,11 +4,11 @@
 	"url"           : "http://github.com/itsatony/minions",
 	"keywords"      : ["javascript", "helpers", "VisualWeb"],
 	"author"        : "Toni Wagner <i@itsatony.com>",
-	"contributors"  : [ "Frederik Rudeck", "Paul Nordmann"],
+	"contributors"  : [ "Frederik Rudeck", "Paul Nordmann", 'Lukas Waldmann'],
 	"licenses"      : ["free"],
 	"dependencies"  : [],
 	"main"          : "./lib/minions",
-	"version"       : "0.2.55",
+	"version"       : "0.2.56",
 	"directories"   : { "lib": "./lib" },
 	"engines"       : { "node": "> 0.6" }
 }

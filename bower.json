@@ -1,0 +1,25 @@
+{
+  "name": "minions",
+  "version": "0.2.61",
+  "homepage": "https://github.com/itsatony/minions",
+  "authors": [
+    "itsatony <i@itsatony.com>"
+  ],
+  "description": "a weird set of little Javascript helpers we use for both nodeJS and browsers",
+  "main": "lib/minions.js",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "helperfunctions"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
